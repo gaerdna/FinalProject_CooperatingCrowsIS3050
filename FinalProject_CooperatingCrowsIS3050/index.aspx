@@ -29,6 +29,7 @@
             <asp:ListItem Text="-- Select a Problem --" Value="" />
             <asp:ListItem Text="Median of Two Sorted Arrays" Value="Median" />
             <asp:ListItem Text="Binary Matrix Flipper" Value="Binary" />
+            <asp:ListItem Text="Regular Expression Matching" Value="Binary" />
         </asp:DropDownList>
 
         <br /><br />
