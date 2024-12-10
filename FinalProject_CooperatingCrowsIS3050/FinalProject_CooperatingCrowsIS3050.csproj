@@ -82,6 +82,13 @@
     </Compile>
     <Compile Include="LongestValidParentheses.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegularExpressionMatching.cs" />
+    <Compile Include="RegularExpressionMatching.cs.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RegularExpressionMatching.cs.designer.cs">
+      <DependentUpon>RegularExpressionMatching.cs.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
